@@ -1,0 +1,6 @@
+{
+  "name": "callOga",
+  "description": "Nigeria's premier artisan marketplace connecting households and businesses with nearby, verified artisans and secure escrow. Good work is closer than you think.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
